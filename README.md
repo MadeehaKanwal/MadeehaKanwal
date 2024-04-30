@@ -18,7 +18,8 @@
 - Earned a **Bachelor of Engineering in Software** from **Government College University Faisalabad** with a CGPA of **3.83/4.0**.
   
 ## Employment History:
-- As a **Computer Science Lecturer** at **Riphah International University, Lahore, Pakistan** 
+- As a **Computer Science Lecturer** at **Riphah International University, Lahore, Pakistan**
+- As a **Computer Science Lecturer** at **University of Okara, Okara, Pakistan** 
 - As a **Computer Science Lecturer** at **Government Degree College For Women Dhoke Ellahi Bakhash, Rawalpindi** 
 ## Projects:
 - Worked with the university’s Learning Management System (LMS) development team on [**"University LMS portal"**](http://lms.uettaxila.edu.pk/)
