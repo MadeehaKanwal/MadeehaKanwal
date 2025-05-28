@@ -23,7 +23,6 @@
 - As a **Computer Science Lecturer** at **Government Degree College For Women Dhoke Ellahi Bakhash, Rawalpindi** 
 ## Projects:
 - Worked with the university’s Learning Management System (LMS) development team on [**"University LMS portal"**](http://lms.uettaxila.edu.pk/)
-- Worked on the website of [**"Skylite company"**](https://www.skylitedevelopers.com/)
 - Developed a website **Medico** for Medical Clinic
 - developed a semester project **Online Quiz System**
   
@@ -31,7 +30,7 @@
 - Proficient in programming languages such as **C/C++, Java, C#, Python, SQL, ASP.NET** and **LATEX**.
 ## Awards and Achievements:
 - Received a **Gold Medal** in BS software engineering.
-- Received a **fully funded merit-based scholarship** for a master's program.
+- Received a **merit-based scholarship** for a master's program.
   
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
